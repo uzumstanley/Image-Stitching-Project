@@ -1,7 +1,3 @@
-Here’s a clean and professional `README.md` for your **Image Stitching Project** that explains what it does, how to run it, and what to expect:
-
----
-
 # 🧵 Image Stitching Project
 
 This project performs **automatic image stitching** to generate a seamless panorama from a set of overlapping images. It utilizes **OpenCV** for feature detection, matching, and blending, and includes post-processing to remove any unwanted borders.
